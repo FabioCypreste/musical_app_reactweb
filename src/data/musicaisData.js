@@ -5,7 +5,7 @@ export const musicais = [
     id: 1,
     titulo: 'Tim Maia - Vale Tudo',
     subtitulo: 'O Musical',
-    imagem: 'OsSaltimbancos',
+    imagem: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=400&fit=crop',
     tags: ['Português', 'Teatro', 'Brasileiro'],
     genero: 'Biográfico',
     idioma: 'Português',
