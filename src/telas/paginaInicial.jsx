@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import MusicalCard from '../components/MusicalCard';
+import MusicalCard from '../components/musicaisCard';
 import { musicais, getGeneros, getCidades, getIdiomas } from '../data/musicaisData';
 
 export default function HomeScreen({ onSelectMusical }) {
