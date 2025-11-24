@@ -23,15 +23,15 @@ export default function DetailScreen({ musical, onBack }) {
           {/* Info Cards */}
           <div style={styles.infoCardsContainer}>
             <div style={styles.infoCard}>
-              <p style={styles.infoLabel}>🎭 Gênero</p>
+              <p style={styles.infoLabel}>Gênero</p>
               <p style={styles.infoValor}>{musical.genero}</p>
             </div>
             <div style={styles.infoCard}>
-              <p style={styles.infoLabel}>📍 Cidade</p>
+              <p style={styles.infoLabel}>Cidade</p>
               <p style={styles.infoValor}>{musical.cidade}</p>
             </div>
             <div style={styles.infoCard}>
-              <p style={styles.infoLabel}>🗣️ Idioma</p>
+              <p style={styles.infoLabel}>Idioma</p>
               <p style={styles.infoValor}>{musical.idioma}</p>
             </div>
           </div>
