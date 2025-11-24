@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import HomeScreen from './screens/HomeScreen';
-import DetailScreen from './screens/DetailScreen';
+import HomeScreen from './telas/paginaInicial';
+import DetailScreen from './screens/musicaisDetalhes';
 
 export default function App() {
   const [musicalSelecionado, setMusicalSelecionado] = useState(null);
