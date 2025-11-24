@@ -1,9 +1,11 @@
+import OsSaltimbancos from '../src/assets/os-saltimbancos.jpg';
+
 export const musicais = [
   {
     id: 1,
     titulo: 'Tim Maia - Vale Tudo',
     subtitulo: 'O Musical',
-    imagem: 'src/assets/os-saltimbancos.jpg',
+    imagem: 'OsSaltimbancos',
     tags: ['Português', 'Teatro', 'Brasileiro'],
     genero: 'Biográfico',
     idioma: 'Português',
